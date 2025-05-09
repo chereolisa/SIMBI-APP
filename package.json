@@ -12,6 +12,7 @@
   "dependencies": {
     "@metamask/providers": "^22.1.0",
     "@react-oauth/google": "^0.12.1",
+    "axios": "^1.9.0",
     "framer-motion": "^12.10.5",
     "jwt-decode": "^4.0.0",
     "react": "^19.0.0",
